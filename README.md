@@ -139,8 +139,3 @@ The following screenshot shows the successful execution of the assignment script
 ![Assignment output](output_screenshot.png)
 
 ---
-
-## License
-
-This repository is for academic/assignment purposes only.  
-Please do not copy directly for graded submissions; use it as a reference to learn the terminal and Docker workflow.
